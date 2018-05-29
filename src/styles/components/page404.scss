@@ -1,0 +1,10 @@
+.not-found {
+	font-family: "Roboto", Arial, sans-serif;
+	background-color: $theme-bg-color;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	height: 100vh;
+}

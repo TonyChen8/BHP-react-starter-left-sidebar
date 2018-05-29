@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.layout-container {
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+}
+.body {
+	display: flex;
+	flex: 1;
+	flexdirection: row;
+}
+.routes-container {
+	flex: 1;
+	overflow: auto;
+}
